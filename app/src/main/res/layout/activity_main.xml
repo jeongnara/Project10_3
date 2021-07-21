@@ -13,9 +13,9 @@
         android:layout_height="wrap_content"
         android:text="@string/btn_call"/>
     <Button
-        android:id="@+id/finish"
+        android:id="@+id/btn_finish"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/btn_finish "/>
+        android:text="@string/btn_finish"/>
 
 </LinearLayout>
